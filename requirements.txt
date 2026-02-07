@@ -15,7 +15,7 @@ fake-useragent==1.4.0
 python-dotenv==1.0.0
 
 # Requisições HTTP
-requests==2.31.0
+requests==2.32.4
 
 # Agendamento de tarefas
 schedule==1.2.0
