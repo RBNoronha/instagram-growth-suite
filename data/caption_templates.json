@@ -1,0 +1,60 @@
+{
+  "motivational": [
+    "💪 {message}\n\n{hashtags}",
+    "🔥 {message}\n\n{hashtags}",
+    "✨ {message}\n\n{hashtags}",
+    "🚀 {message}\n\n{hashtags}",
+    "💯 {message}\n\n{hashtags}"
+  ],
+  "educational": [
+    "📚 {message}\n\n{hashtags}",
+    "💡 {message}\n\n{hashtags}",
+    "🎯 {message}\n\n{hashtags}",
+    "📖 {message}\n\n{hashtags}",
+    "🧠 {message}\n\n{hashtags}"
+  ],
+  "engagement": [
+    "👇 {message}\n\n{hashtags}",
+    "🤔 {message}\n\n{hashtags}",
+    "💬 {message}\n\n{hashtags}",
+    "👀 {message}\n\n{hashtags}",
+    "🙌 {message}\n\n{hashtags}"
+  ],
+  "questions": [
+    "Qual sua opinião? {message}\n\n{hashtags}",
+    "Concorda? {message}\n\n{hashtags}",
+    "Comenta! {message}\n\n{hashtags}",
+    "O que você acha? {message}\n\n{hashtags}",
+    "Me conta! {message}\n\n{hashtags}"
+  ],
+  "messages": {
+    "crescimento": [
+      "Qual sua meta de seguidores para este mês?",
+      "O que está te impedindo de crescer?",
+      "Consistência é a chave do sucesso!",
+      "Pequenos passos todos os dias!",
+      "Nunca pare de evoluir!"
+    ],
+    "conteudo": [
+      "Que tipo de conteúdo você mais gosta?",
+      "Salva esse post para ver depois!",
+      "Marca alguém que precisa ver isso!",
+      "Compartilha nos stories!",
+      "Qual tema você quer ver mais?"
+    ],
+    "engajamento": [
+      "Dê dois toques se concorda!",
+      "Comenta sua opinião!",
+      "Compartilha com quem precisa!",
+      "Salva para não esquecer!",
+      "Me segue para mais conteúdo!"
+    ],
+    "motivacao": [
+      "Você é capaz de conquistar tudo!",
+      "Acredite no seu potencial!",
+      "O sucesso é uma jornada, não um destino!",
+      "Cada dia é uma nova oportunidade!",
+      "Nunca desista dos seus sonhos!"
+    ]
+  }
+}
