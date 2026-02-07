@@ -1,0 +1,71 @@
+# ============================================
+# ARQUIVOS IGNORADOS PELO GIT
+# ============================================
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+logs/*.log
+*.log
+
+# Dados sensíveis
+data/*.json
+!data/.gitkeep
+!data/templates/*.json
+
+# Sessões do navegador
+chrome_profile/
+session_cookies.pkl
+
+# Conteúdo gerado
+content/images/*
+!content/images/.gitkeep
+content/videos/*
+!content/videos/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+*.bak
+*.tmp
+*.temp
