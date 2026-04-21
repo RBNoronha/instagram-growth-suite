@@ -12,7 +12,7 @@ webdriver-manager==4.0.1
 fake-useragent==1.4.0
 
 # Variáveis de ambiente
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 
 # Requisições HTTP
 requests==2.31.0
